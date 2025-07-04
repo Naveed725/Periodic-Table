@@ -1,0 +1,116 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;
+}
+body {
+    color: #666666;
+    background-color: #eec470;
+    background-image: url(data:image/jpeg;base64,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);
+    background-position: center;
+    font-family: Verdana;
+    line-height: 2.4em;
+    
+}
+.wrapper {width: 950px;
+margin: 0px auto 0px auto;
+border: 2px solid #000000;
+background-color: #ffffff;
+}
+header {
+    height: 150px;
+    background-image: url(https://media.istockphoto.com/id/1407271745/photo/gray-background.jpg?s=1024x1024&w=is&k=20&c=ah67tdX7sLctDaZwTW-ORK8pAEWDLFb0bKvye8GZ76c=);
+    
+}
+hgroup.group {margin-top: 0px;
+    text-indent: 150px;
+    line-height: 220% ;
+    color: #5e1525;
+width: 500px;
+height: 130px;
+}
+.group img {
+    position: absolute;
+    left: 18%;
+    width: 100px;
+    float: left;
+    border-radius: 50%;
+    top: 5%;
+}
+hgroup.group h2 {
+    letter-spacing: 5px;
+    }
+nav, footer {
+clear: both;
+color: #ffffff;
+background-color: #aeaca8;
+height: 30px;}
+nav ul {
+    margin: 0px;
+    padding: 0px 10px 5px 100px;
+}
+nav li {
+    display: inline;
+    margin-right: 100px;
+    text-transform: capitalize;
+}
+nav li a {
+    color: #ffffff;
+}
+nav li a:hover, nav li a .current {color: #000000;}
+section.courses {
+float: left;
+width: 660px;
+border-right: 1px solid #eeeeee;
+}
+article {
+    clear: both;
+    overflow: auto;
+    width: 100% 
+}
+hgroup.group2 {
+    margin-top:30px;
+}
+figure { float: left;
+    padding: 5px;
+    margin: 20px
+}
+figcaption {
+    font-size: 90%;
+    text-align: right;
+    color: #e66b19;
+}
+aside {
+    width: 230px;
+    float: left;
+    padding: 0px 0px 0px 20px;
+}
+aside section a {
+    display: block;
+    padding: 0px;
+    border-bottom: 1px solid #eeeeee;
+}
+aside section a:hover {
+    color: #985d6a;
+background-color: #a7d7ee;
+}
+a {
+    color: #de6581;
+    text-decoration: none;
+}
+h1, h2, h3 {
+    font-weight: normal;
+}
+h2 {
+    margin: 10px 0px 5px 0px;
+    padding: 0px;
+}
+h3 {
+    margin: 0px 0px 10px 0px;
+color: #de6581;
+}
+aside h2 {
+    padding: 30px 0px 10px 0px;
+color: #de6581;
+}
+footer {
+font-size: 80%;
+padding: 7px 0px 0px 20px;}
